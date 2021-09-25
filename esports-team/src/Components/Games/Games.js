@@ -9,9 +9,11 @@ const Games = () => {
 
 
     const HandleClick=(gamess)=>{
-        const  newMeal={gamess}
-        
-        setDetails(newMeal.gamess)
+
+
+       const cart=[...details,gamess];
+       setDetails(cart)
+       
     }
 
     useEffect( ()=>{
@@ -36,6 +38,7 @@ const Games = () => {
                       ></Details>
              
         </div>
+      
     );
 };
 

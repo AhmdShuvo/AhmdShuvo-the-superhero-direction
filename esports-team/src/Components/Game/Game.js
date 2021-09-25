@@ -1,10 +1,10 @@
 import React from 'react';
-import {Card ,Button,CardGroup,Row ,Col,Container} from 'react-bootstrap';
+import {Card ,Button} from 'react-bootstrap';
 
 const Game = (props) => {
     // console.log(props);
 
-    const{index,name,price,picture,_id,email ,quantity}=props.game;
+    const{name,price,picture,_id,email ,quantity}=props.game;
     return (
        <div >
           
