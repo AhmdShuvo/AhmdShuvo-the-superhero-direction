@@ -22,7 +22,7 @@ const Games = () => {
 
     } ,[])
     return (
-        <div className="d-flex">
+        <div className="d-flex justify-content-between">
           <div className=' mt-5 row row-cols-1 row-cols-md-3 g-4">'>
           {
                           games.map(game=><Game

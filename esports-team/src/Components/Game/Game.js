@@ -1,14 +1,15 @@
 import React from 'react';
+
 import {Card ,Button} from 'react-bootstrap';
 
 const Game = (props) => {
-    // console.log(props);
+   
 
     const{name,price,picture,_id,email ,quantity}=props.game;
     return (
-       <div >
+       <div  >
           
-   <div>
+         <div>
    <Card style={{ width: '22rem' }}>
   <Card.Img variant="top" src={picture} />
   <Card.Body>

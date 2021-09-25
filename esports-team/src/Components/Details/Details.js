@@ -13,7 +13,7 @@ const Details = (props) => {
         
     }
     return (
-        <div className="pe-5 border border-secondary w-auto">
+        <div className=" m-5 pe-5 border border-secondary">
             <h1>Details </h1>
             <ul>
                 {

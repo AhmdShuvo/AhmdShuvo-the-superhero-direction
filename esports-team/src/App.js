@@ -6,7 +6,7 @@ import Games from './Components/Games/Games';
 
 function App() {
   return (
-    <div className="ms-2 container">
+    <div className="ms-2">
        <Header></Header>
        <Games></Games>
     </div>
