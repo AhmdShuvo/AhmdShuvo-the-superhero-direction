@@ -1,0 +1,141 @@
+[
+    {
+        "_id": "614f57937c6af65650e7cc47",
+        "index": 0,
+        "guid": "8e09b096-3689-4d4c-931a-b25d9358cf3c",
+        "price": 27424,
+        "picture": "https://cdn.mos.cms.futurecdn.net/fH9DcZgwJtarhZ3YVF6D5j-970-80.jpg",
+        
+        "eyeColor": "blue",
+        "name": "Disco Elysium – The Final Cut",
+       
+        "email": "stantonpowell@joviold.com",
+        "quantity": "70"
+    },
+    {
+        "_id": "614f57932062d895f80fb9d4",
+        "index": 1,
+        "guid": "21e65a8d-59da-401a-a242-a9c9ceeaac81",
+        "price": 15213,
+        "picture": "https://cdn.mos.cms.futurecdn.net/ZX3Qhm46F3T9TzzWAqsr6J-970-80.jpg",
+        
+        "eyeColor": "green",
+        "name": "Hitman 3",
+        
+        
+        "email": "jarvisfulton@joviold.com"
+        ,
+        "quantity": "140"
+    },
+    {
+        "_id": "614f5793b95a7e6997bfad17",
+        "index": 2,
+        "guid": "7073ba89-3e76-4500-a3b4-c08c9322414c",
+        "price": 32314,
+        "picture": "https://cdn.mos.cms.futurecdn.net/D5mhtgawi5ist94hnKxTtb-970-80.jpg",
+        
+        "eyeColor": "blue",
+        "name": "Crusader Kings 3",
+       
+        "email": "annmarieherring@joviold.com"
+        ,
+        "quantity": "90"
+    },
+    {
+        "_id": "614f57930db359fc37a27e29",
+        "index": 3,
+        "guid": "df96ee7c-3da8-4886-838b-b7b0d50573ff",
+        "price": 25188,
+        "picture": "https://cdn.mos.cms.futurecdn.net/HKvPX3mZPjMXpVgvQdvuSJ-970-80.jpg.webp",
+       
+        "eyeColor": "blue",
+        "name": "Apex Legends",
+       
+        "email": "welchbradford@joviold.com",
+        "quantity": "300"
+    },
+    {
+        "_id": "614f579393abb50a0cb18269",
+        "index": 4,
+        "guid": "c0231a8a-9af7-4d46-a35d-f1bccb2081a0",
+        "price": 14644,
+        "picture": "https://cdn.mos.cms.futurecdn.net/wn7KchPWfiqmWFZfsiaYR3-970-80.jpg",
+       
+        "eyeColor": "brown",
+        "name": "Red Dead Redemption 2",
+       
+        "email": "loisavery@joviold.com"
+        ,
+        "quantity": "10"
+    },
+    {
+        "_id": "614f5793720fc06d2b3089a2",
+        "index": 5,
+        "guid": "f3fc2944-28b8-4c0a-b43b-b304878f46d0",
+        "price": 41020,
+        "picture": "https://cdn.mos.cms.futurecdn.net/AGcmtKxXBbyr7joxfDqwym-970-80.jpg",
+       
+        "eyeColor": "green",
+        "name": "Death Stranding",
+        
+        "email": "murraybenjamin@joviold.com"
+        ,
+        "quantity": "330"
+    },
+    {
+        "_id": "614f57935a1228354a932995",
+        "index": 6,
+        "guid": "483c4aa6-f9f5-4dba-8d6e-8647cc941bc9",
+        "price": 28212,
+        "picture": "https://cdn.mos.cms.futurecdn.net/A7zC3bvSNxWGyaP8jSuz2W-970-80.jpg",
+       
+        "eyeColor": "green",
+        "name": "Minecraft",
+        
+        "email": "estellereed@joviold.com"
+        ,
+        "quantity": "430"
+    },
+    {
+        "_id": "614f5793fcad8a8bae8ad1ec",
+        "index": 7,
+        "guid": "d5329f8f-d2a0-4de3-94e9-13ad6e208359",
+        "price": 16274,
+        "picture": "https://cdn.mos.cms.futurecdn.net/CLHYKpePmFk6t9imPx4AnT-970-80.jpg",
+       
+        "eyeColor": "blue",
+        "name": "The Witcher 3",
+       
+        "email": "tammybender@joviold.com"
+        ,
+        "quantity": "30"
+    },
+    {
+        "_id": "614f579319362ad684614405",
+        "index": 8,
+        "guid": "6c85b9be-13b6-459b-be3d-67c2e72e4743",
+        "price": 38567,
+        "picture": "https://cdn.mos.cms.futurecdn.net/jhVAyEnuBaRJLq2RH2RtLM-970-80.png",
+       
+        "eyeColor": "green",
+        "name": "Divinity: Original Sin 2",
+       
+        "email": "meyerswatkins@joviold.com"
+        ,
+        "quantity": "10"
+    },
+    {
+        "_id": "614f579319362ad6846144045",
+        "index": 9,
+        "guid": "6c85b9be-13b6-459b-be3d-67c2e72e4743",
+        "price": 38567,
+        "picture": "https://cdn.mos.cms.futurecdn.net/KspEZs872Ngw8b8DTxNKkk-970-80.jpg",
+       
+        "eyeColor": "green",
+        "name": "Dishonored 2",
+       
+        "email": "meyerswatkins@joviold.com"
+        ,
+        "quantity": "50"
+    }
+]
