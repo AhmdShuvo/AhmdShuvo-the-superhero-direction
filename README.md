@@ -8,9 +8,11 @@
   ---->we are making a friendly Environment for gamers 
 
 ---->lets take a tour to the gaming world
-# Live Site
-Visit Our Site 
 
-        click https://vigorous-yonath-2a2c0a.netlify.app/ 
+
+
+# visit site 
+click
+https://vigorous-yonath-2a2c0a.netlify.app// 
 
   
