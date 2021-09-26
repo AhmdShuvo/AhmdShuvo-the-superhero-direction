@@ -3,7 +3,7 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <div className="m-5 container">
+        <div className="mt-4 bg-dark text-white p-3">
 
             <h1 className="text-info">Order Games online!!</h1>
               <center>
