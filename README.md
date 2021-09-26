@@ -3,7 +3,7 @@
 
 # Usage
 
- ----> you can bye games from here 
+ ----> you can buy games from here 
 
   ---->we are making a friendly Environment for gamers 
 
