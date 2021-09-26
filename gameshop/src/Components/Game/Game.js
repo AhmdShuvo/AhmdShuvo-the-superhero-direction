@@ -15,11 +15,11 @@ const Game = (props) => {
    <Card style={{ width: '22rem',backgroundColor: "rgba(200, 113, 240, 0.534)" ,padding:'10px',marginTop:"30px"}}>
   <Card.Img variant="top" src={picture} />
   <Card.Body>
-    <Card.Title>Name : {name}</Card.Title>
-    <Card.Title>Price : {price}</Card.Title>
-    <Card.Title>Id :{_id}</Card.Title>
-    <Card.Title>Email: {email}</Card.Title>
-    <Card.Title>Available Now : {quantity}</Card.Title>
+    <Card.Title className='text-danger'><span className="fs-3 text-success">Name :</span> {name}</Card.Title>
+    <Card.Title><span className="text-success fs-3">Price: </span> : {price}</Card.Title>
+    <Card.Title><span className="text-success fs-3">ID: </span> {_id}</Card.Title>
+    <Card.Title><span className="text-success fs-3">Email :</span> {email}</Card.Title>
+    <Card.Title><span className="text-success fs-3">Available :</span>  {quantity}</Card.Title>
     
     <Button
        onClick={()=>props.HandleClick(props.game)}
