@@ -2,7 +2,7 @@
  
  
  
-  #Informations from
+  # Informations from
 Information for api from https://www.pcgamer.com/top-100-pc-games-2021/#section-10-1
 
 # Usage
