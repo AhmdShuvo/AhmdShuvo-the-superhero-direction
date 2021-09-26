@@ -2,14 +2,14 @@ import React, { useState } from 'react';
 
 const Details = (props) => {
 
-    let {details}=props
+    const {details}=props;
     
     let total=0;
    
     
     for(const product of details){
         total=total+product.price;
-        console.log(product);
+       
         
     }
     return (
@@ -19,7 +19,9 @@ const Details = (props) => {
                 {
                     details.map(game=><li
                       key={game._id}
+                  
                     >{game.name}</li>)
+                
                 }
             </ul>
             <h4 >Items Orderd:{details.length} </h4>

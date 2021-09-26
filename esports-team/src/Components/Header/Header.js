@@ -6,8 +6,12 @@ const Header = () => {
         <div className="m-5 container">
 
             <h1 className="text-info">Order Games online!!</h1>
-            <h2 className="bg-danger">header</h2>
+              <center>
+              <h5 className="text-info ">Lets Create A Gaming Environment </h5> 
+              <h5> Total Budget {1000} Million </h5> 
    
+              </center>
+              
 
         </div>
     );

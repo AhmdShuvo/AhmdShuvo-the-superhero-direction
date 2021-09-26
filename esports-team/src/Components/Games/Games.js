@@ -8,10 +8,10 @@ const Games = () => {
     const[details,setDetails]=useState([]);
 
 
-    const HandleClick=(gamess)=>{
+    const HandleClick=(games)=>{
 
 
-       const cart=[...details,gamess];
+       const cart=[...details,games];
        setDetails(cart)
        
     }
